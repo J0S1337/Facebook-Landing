@@ -5,3 +5,9 @@ margin: 0;
 padding: 0;
 font-familly: "Ubuntu", sans-serif;
 }
+main
+{
+position: relative;
+min-height: 100vh;
+background: radial-gradient(#f0483a,#d10a20);
+}
