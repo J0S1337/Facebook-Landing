@@ -9,5 +9,5 @@ font-familly: "Ubuntu", sans-serif;
 {
 position: relative;
 min-height: 100vh;
-background: radial-gradient(#f0483a,#ff0000);
+background: radial-gradient(circle at center, red 0, blue, green 100%)
 }
