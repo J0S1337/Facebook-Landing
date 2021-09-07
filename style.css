@@ -9,6 +9,6 @@ font-familly: "Poppins", sans-serif;
 .main
 {
 position: relative;
-background: linear-gradient(125deg,#fff,#fff 60%,#3b5998 60%,#3b5998 100%);
+background: linear-gradient(120deg,#fff,#fff 60%,#3b5998 60%,#3b5998 100%);
 min-height: 100vh;
 }
