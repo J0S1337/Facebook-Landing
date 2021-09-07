@@ -8,6 +8,6 @@ font-familly: "Ubuntu", sans-serif;
 .main
 {
 position: relative;
-height: 100vh;
-backlground: radial-gradient(#f0483a,#ff0000);
+min-height: 100vh;
+background: radial-gradient(#f0483a,#ff0000);
 }
